@@ -1,0 +1,30 @@
+@charset "utf-8";
+.container {
+	height: 1000px;
+	width: 1340px;
+}
+.banner {
+	background-color: #39F;
+	float: left;
+	height: 200px;
+	width: 1340px;
+}
+.nav {
+	background-color: #FFC;
+	float: left;
+	height: 700px;
+	width: 200px;
+}
+.main {
+	background-color: #6F9;
+	float: left;
+	height: 700px;
+	width: 1140px;
+
+}
+.footer {
+	background-color: #CCF;
+	float: left;
+	height: 100px;
+	width: 1340px;
+}
